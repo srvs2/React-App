@@ -1,0 +1,198 @@
+{
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US",
+        "capital": "Washington, D.C.",
+        "population": 331002651
+      },
+      {
+        "name": "India",
+        "code": "IN",
+        "capital": "New Delhi",
+        "population": 1380004385
+      },
+      {
+        "name": "United Kingdom",
+        "code": "GB",
+        "capital": "London",
+        "population": 67886011
+      },
+      {
+        "name": "Germany",
+        "code": "DE",
+        "capital": "Berlin",
+        "population": 83783942
+      },
+      {
+        "name": "Japan",
+        "code": "JP",
+        "capital": "Tokyo",
+        "population": 126476461
+      },
+      {
+        "name": "Brazil",
+        "code": "BR",
+        "capital": "Brasília",
+        "population": 212559417
+      },
+      {
+        "name": "Australia",
+        "code": "AU",
+        "capital": "Canberra",
+        "population": 25499884
+      },
+      {
+        "name": "France",
+        "code": "FR",
+        "capital": "Paris",
+        "population": 65273511
+      },
+      {
+        "name": "China",
+        "code": "CN",
+        "capital": "Beijing",
+        "population": 1439323776
+      },
+      {
+        "name": "Russia",
+        "code": "RU",
+        "capital": "Moscow",
+        "population": 145934462
+      }
+    ],
+    "states": [
+      {
+        "name": "California",
+        "code": "CA",
+        "country_code": "US"
+      },
+      {
+        "name": "New York",
+        "code": "NY",
+        "country_code": "US"
+      },
+      {
+        "name": "Haryana",
+        "code": "HR",
+        "country_code": "IN"
+      },
+      {
+        "name": "Delhi",
+        "code": "DL",
+        "country_code": "IN"
+      },
+      {
+        "name": "England",
+        "code": "ENG",
+        "country_code": "GB"
+      },
+      {
+        "name": "Scotland",
+        "code": "SCT",
+        "country_code": "GB"
+      },
+      {
+        "name": "Bavaria",
+        "code": "BY",
+        "country_code": "DE"
+      },
+      {
+        "name": "Tokyo",
+        "code": "TKY",
+        "country_code": "JP"
+      },
+      {
+        "name": "São Paulo",
+        "code": "SP",
+        "country_code": "BR"
+      },
+      {
+        "name": "New South Wales",
+        "code": "NSW",
+        "country_code": "AU"
+      },
+      {
+        "name": "Île-de-France",
+        "code": "IDF",
+        "country_code": "FR"
+      },
+      {
+        "name": "Beijing",
+        "code": "BJ",
+        "country_code": "CN"
+      },
+      {
+        "name": "Moscow Oblast",
+        "code": "MOS",
+        "country_code": "RU"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Los Angeles",
+        "state_code": "CA",
+        "country_code": "US"
+      },
+      {
+        "name": "New York",
+        "state_code": "NY",
+        "country_code": "US"
+      },
+      {
+        "name": "Gurugram",
+        "state_code": "HR",
+        "country_code": "IN"
+      },
+      {
+        "name": "Delhi",
+        "state_code": "DL",
+        "country_code": "IN"
+      },
+      {
+        "name": "London",
+        "state_code": "ENG",
+        "country_code": "GB"
+      },
+      {
+        "name": "Scotland",
+        "state_code": "SCT",
+        "country_code": "GB"
+      },
+      {
+        "name": "Munich",
+        "state_code": "BY",
+        "country_code": "DE"
+      },
+      {
+        "name": "Tokyo",
+        "state_code": "TKY",
+        "country_code": "JP"
+      },
+      {
+        "name": "São Paulo",
+        "state_code": "SP",
+        "country_code": "BR"
+      },
+      {
+        "name": "Sydney",
+        "state_code": "NSW",
+        "country_code": "AU"
+      },
+      {
+        "name": "Paris",
+        "state_code": "IDF",
+        "country_code": "FR"
+      },
+      {
+        "name": "Beijing",
+        "state_code": "BJ",
+        "country_code": "CN"
+      },
+      {
+        "name": "Moscow",
+        "state_code": "MOS",
+        "country_code": "RU"
+      }
+    ]
+   }
